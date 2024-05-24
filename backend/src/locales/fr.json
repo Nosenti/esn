@@ -1,0 +1,14 @@
+{
+	"Announcement sent successfully.": "Annonce envoyée avec succès.",
+	"Failed to send a new Announcement": "Échec de l'envoi d'une nouvelle annonce",
+	"Failed to fetch announcements": "Échec de la récupération des annonces",
+	"Message sent successfully.": "Message envoyé avec succès.",
+	"Failed to send a new message": "Échec de l'envoi d'un nouveau message",
+	"Private message sentsuccessfully.": "Message privé envoyé avec succès.",
+	"Failed to send a private message": "Échec de l'envoi d'un message privé",
+	"Fetched private chats successfully": "Chats privés récupérés avec succès",
+	"Failed to fetch private chats": "Échec de la récupération des discussions privées",
+	"Fetched old messages successfully": "Anciens messages récupérés avec succès",
+	"Failed to fetch old messages": "Échec de la récupération des anciens messages",
+	"Announcements retrieved successfully": "Annonce récupérée avec succès"
+}

@@ -1,0 +1,14 @@
+{
+	"Announcement sent successfully.": "Announcement sent successfully.",
+	"Failed to send a new Announcement": "Failed to send a new Announcement",
+	"Failed to fetch announcements": "Failed to fetch announcements",
+	"Message sent successfully.": "Message sent successfully.",
+	"Failed to send a new message": "Failed to send a new message",
+	"Private message sentsuccessfully.": "Private message sentsuccessfully.",
+	"Failed to send a private message": "Failed to send a private message",
+	"Fetched private chats successfully": "Fetched private chats successfully",
+	"Failed to fetch private chats": "Failed to fetch private chats",
+	"Fetched old messages successfully": "Fetched old messages successfully",
+	"Failed to fetch old messages": "Failed to fetch old messages",
+	"Announcements retrieved successfully": "Announcements retrieved successfully"
+}
